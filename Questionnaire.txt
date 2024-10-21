@@ -1,0 +1,46 @@
+# TP IoT systems and Life Cycle Assessment (LCA) 
+
+- Votre NOM
+- Votre Prénom :
+- NOM de votre binôme :
+- Prénom de votre binôme :
+
+NB Questions are in english, you can answer in French or in English.
+
+## 3.2 Influence of the bulb base line power
+- Modify the baseline power of the bulbs and execute the system.  (`item.bulb.powerActive` line of the `residential-lighting-system-greyEnergy.properties` file) You can try with those values : 11, 7, 5   What observations can you make ? 
+  - xxxxxxxxxx 
+
+- Try and change the value of several other parameters (such as the idle power (powerSleep), the embodied energy or the activity percentage) to understand how much influence each one has on the system. Can you see a good way of improvement for the system? On the contrary, is there something with a very weak influence?
+  - xxxxxxxxxxxx
+  
+## 3.3 The OFFICE_LIGHT system
+- Can you make the same conclusions as for the residential system? Analyze the differences.
+  - xxxxxxxxxxxxx
+
+
+## 3.4 The OFFICE_LIGHT system with GHG criteria 
+
+- Choose the carbon intensity of the France first and of the Poland in second give your analyze on the graphs.
+  - xxxxxxxxxxxxx
+
+## 4  Heating system
+
+### The description of the house
+(size and number of rooms) and the explanation of the choices in terms of number of heaters, number of bridges, number of sensors (you can provide a figure for the house)
+
+-  ***** 
+
+### Results
+- Name of the property file : xxx
+- Description of the obtained results 
+  - xxxxxxxxxxxxxxxxxxxx
+- Discussion on the interest to change one existing heating system with the smart heating system
+  - xxxxxxxxxxxxxxxxxxx
+
+
+## Question ouverte
+
+1. (Question ouverte) Voulez-vous ajouter un commentaire ?
+  - xxxxxxxxxx (texte)
+
